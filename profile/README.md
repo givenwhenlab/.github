@@ -13,7 +13,11 @@
     <img src="https://img.shields.io/badge/Open_Source-101418?style=flat-square&logo=github&logoColor=white" alt="Open source" />
   </p>
 
-  <p><a href="https://github.com/orgs/givenwhenlab/repositories">Explore the repositories →</a></p>
+  <p>
+    <a href="https://givenwhenlab.github.io/"><strong>Explore GivenWhenLab ↗</strong></a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/orgs/givenwhenlab/repositories">Browse repositories</a>
+  </p>
 
 </div>
 
